@@ -1,7 +1,5 @@
 # escola da nuvem - modulo 2 - Python
 
-# 📘 ednPython – Atividades da Escola da Nuvem
-
 Este repositório contém exercícios e atividades práticas desenvolvidas durante o curso de Python da Escola da Nuvem.  
 Os arquivos estão organizados por pasta, de acordo com cada etapa do aprendizado.
 
