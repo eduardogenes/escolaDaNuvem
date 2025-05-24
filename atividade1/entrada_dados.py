@@ -1,5 +1,5 @@
 #Código 5
-#Este codigo tem como objetivo ler valores inteiros inputados pelo usuário e calcular a diferença
+#Este codigo tem como objetivo receber valores inteiros inputados pelo usuário e calcular a diferença
 
 #Ler os valores inteiros fornecidos pelo usuário
 A = int(input("Digite o valor de A: "))
