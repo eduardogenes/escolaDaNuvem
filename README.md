@@ -3,11 +3,13 @@
 Este repositório contém exercícios e atividades práticas desenvolvidas durante o curso de Python da Escola da Nuvem.  
 Os arquivos estão organizados por pasta, de acordo com cada etapa do aprendizado.
 
-edn_python/
-├── atividade1/
-├── atividade2/
-├── atividade3/
-└── README.md
+```bash
+   edn_python/
+   ├── atividade1/
+   ├── atividade2/
+   ├── atividade3/
+   └── README.md
+```
 
 ---
 
