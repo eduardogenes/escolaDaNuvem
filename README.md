@@ -60,6 +60,42 @@ Atividades com foco em fórmulas matemáticas, classificações e condicionais.
 
 ---
 
+## 📂 atividade4
+
+Exercícios com foco em funções e listas.
+
+**Exemplos:**
+- `calculadora.py`: cálculos matemáticos
+- `gerenciador_notas.py`: notas e média
+- `verificador_senha.py`: validação de senha
+- `analizador_numeros.py`: análise de números
+
+---
+
+## 📂 atividade5
+
+Exercícios com foco em condicionais e laços.
+
+**Exemplos:**
+- `calcular_gorjeta.py`: cálculo de gorjeta
+- `verificar_palindromo.py`: verificação de palíndromo
+- `calculadora_desconto.py`: cálculo de desconto
+- `calcular_idade_dias.py`: cálculo de idade em dias
+
+---
+
+## 📂 atividade6
+
+Exercícios com foco em funções e listas.
+
+**Exemplos:**
+- `gerador_senha.py`: geração de senha
+- `gerador_usuario.py`: geração de usuário
+- `consulta_cep.py`: consulta de CEP
+- `cotacao_moeda.py`: cotação de moeda
+
+---   
+
 ## ✅ Tecnologias utilizadas
 
 - Python 3.x
